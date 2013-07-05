@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+		<item name="sch_code" type="INTEGER" primary="true" />
+		<item name="sch_title" type="TEXT" />
+		<item name="sch_body" type="TEXT" />
+		<item name="sch_date" type="DATETIME" />
+		<item name="sch_deletedate" type="DATETIME" />
+</resources>
